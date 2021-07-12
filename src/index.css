@@ -2,6 +2,17 @@
 @import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap");
 
-.cursive {
+.sans-serif {
   font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+}
+
+.prose img {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+.home-name {
+  font-size: 150px;
 }
