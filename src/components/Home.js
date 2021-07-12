@@ -1,5 +1,5 @@
 import React from "react"
-import image from "../emile-perron-xrVDYZRGdw4-unsplash.jpg"
+import image from "../Tech-Space.jpg"
 
 export default function Home() {
     return (
